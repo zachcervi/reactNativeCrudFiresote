@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "reactNativeCrudFiresote",
+    "slug": "reactNativeCrudFiresote",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "reactNativeCrudFiresote"
+}
